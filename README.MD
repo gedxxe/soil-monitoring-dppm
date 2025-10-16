@@ -295,8 +295,7 @@ Each WebSocket message is a structured JSON payload containing all slaves’ dat
 
 ## License
 
-This project is released under the **MIT License**.
-You are free to use, modify, and distribute the software, provided attribution is maintained.
+This project is licensed under the Apache License 2.0. You are free to use, modify, and distribute this software, provided that you include proper attribution and retain the original license notice. This license also grants patent rights from contributors and requires disclosure of significant changes.
 
 ---
 
